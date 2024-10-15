@@ -2,7 +2,3 @@
 
 
 
-- [See the course website][site]
-- [See it on Frontend Masters][fem]
-
-
